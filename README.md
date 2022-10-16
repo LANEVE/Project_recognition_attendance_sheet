@@ -1,8 +1,8 @@
 # Description
 
-The project "attendance sheet" has been realized in the framework of the Data Architecture course of the DS2E master at the University of Strasbourg. The objective of our project is to automate the signing of an attendance sheet.
+The project "attendance sheet" has been realized in the framework of the Data Architecture course of the DS2E master degree at the University of Strasbourg. The objective of our project is to automate the signing of an attendance sheet.
 
--	The program will scrape from the timetable (ernest) the number and times of the different classes for the day.
+-	The program will scrap from the courses schedule (ernest) informations on the different classes of the day. (Course name, Professor name and the time of the course)
 
 -	A facial recognition function will recognize the students present using a webcam.
 
@@ -11,7 +11,7 @@ The project "attendance sheet" has been realized in the framework of the Data Ar
 
 
 
-Requirement :
+# Requirements :
 
 The following prerequisites are necessary for the proper execution of the program:
 
@@ -48,8 +48,13 @@ Make sure to have the following libraries installed in your Python environment:
 
 
 
-Authors : 
+# Authors : 
 
-- ROUSSAUX Claude
+- ROUSSAUX Claude @LarryJr64
 - LANEVE Louis @LANEVE
-- NEUNREUTHER Alexander 
+- NEUNREUTHER Alexander @NEUNREUTHER
+
+# References / Sources:
+
+- The project of @anisayari -> https://github.com/anisayari/easy_facial_recognition
+
