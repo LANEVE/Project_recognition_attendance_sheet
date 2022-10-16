@@ -1,6 +1,6 @@
 # Description
 
-The project "attendance sheet" has been realized in the framework of the Data Architecture course of the DS2E master degree at the University of Strasbourg. The objective of our project is to automate the signing of an attendance sheet.
+The project recognition_attendance_sheet has been realized in the framework of the Data Architecture course of the DS2E master degree at the University of Strasbourg. The objective of our project is to automate the signing of an attendance sheet.
 
 -	The program will scrap from the courses schedule (ernest) informations on the different classes of the day. (Course name, Professor name and the time of the course)
 
