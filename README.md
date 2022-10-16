@@ -44,8 +44,9 @@ Make sure to have the following libraries installed in your Python environment:
 
 4.	the program will use your camera to verify the presence of an individual, so make sure you have authorized access to the webcam and that your "known_faces" folder contains the various individuals you wish to recognize.
 
-- Run => easy_facial_recognition.py --i known_faces
+- Run (on Windows) => python easy_facial_recognition.py --i known_faces
 
+For MacOS you don't need to precise "python".
 
 
 # Authors : 
